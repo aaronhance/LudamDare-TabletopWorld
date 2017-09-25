@@ -1,3 +1,7 @@
+This is the source code for my 48 hour Ludam Dare entry.
+
+Licensing:
+
 AstarPafindingProject is not owned by me and is under other licensing terms. See here: https://arongranberg.com/astar/
 
 The rest of the project is provided under the MIT license.
